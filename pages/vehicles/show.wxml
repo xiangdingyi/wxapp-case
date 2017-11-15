@@ -15,26 +15,26 @@
   <view class="spec">
     <view class="item">
       <view class="header">
-        二氧化碳排放
+     二氧化碳排放
       </view>
       <view class="value">
         <text>{{ entity.meta.carbon_dioxide }}</text>
-        克/公里
+       克/公里
       </view>
     </view>
     <view class="item">
       <view class="header">
-        综合燃油
+       综合燃油
       </view>
       <view class="value">
         <text>{{ entity.meta.fuel }}</text>
-        升/百公里
+       升/百公里
       </view>
     </view>
   </view>
   <view class="action">
     <view class="description">{{ entity.description }}</view>
-    <button class="button primary" bindtap="testDrive">预约试驾</button>
+    <button class="button primary" bindtap="testDrive">预约参观</button>
   </view>
 </view>
 <swiper class="section story white" indicator-dots="{{ true }}">

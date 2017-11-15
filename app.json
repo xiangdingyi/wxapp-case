@@ -6,7 +6,7 @@
     "pages/vehicles/show"
   ],
   "window": {
-    "navigationBarTitleText": "宜租房",
+    "navigationBarTitleText": "车，人，生活",
     "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTextStyle": "black"
   },
@@ -26,7 +26,14 @@
         "pagePath": "pages/stories/index",
         "iconPath": "assets/icons/event.png",
         "selectedIconPath": "assets/icons/event-active.png"
+      },
+      {
+        "text": "关于我",
+        "pagePath": "pages/stories/index",
+        "iconPath": "assets/icons/event.png",
+        "selectedIconPath": "assets/icons/event-active.png"
       }
+      
     ]
   }
 }

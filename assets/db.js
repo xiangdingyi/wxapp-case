@@ -3,8 +3,8 @@ export default {
     {
       id: 5,
       header: "三室一厅",
-      sub_header: "Discovery",
-      description: "全尺寸七座 SUV，现已接受预订。",
+      sub_header: "给你家的感觉",
+      description: "全新北欧风格装潢。",
       image: "https://resources.ninghao.net/landrover/discover-1.jpg"
     },
     {
