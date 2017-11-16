@@ -28,7 +28,7 @@
         "selectedIconPath": "assets/icons/event-active.png"
       },
       {
-        "text": "关于我",
+        "text": "留言",
         "pagePath": "pages/stories/index",
         "iconPath": "assets/icons/event.png",
         "selectedIconPath": "assets/icons/event-active.png"
